@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Chewy&display=swap");
+ 
+.container {
+    height: 100vh;
+    background: url("../../images/login.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.formHeader {
+    font-size: 52px;
+    font-family: "Chewy", cursive;
+    color: #7f00ff;
+}
+
+.formHeader span {
+    color: white;
+}
